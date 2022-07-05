@@ -1,0 +1,145 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+.head {
+    color: tomato;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.first {
+    display: flex;
+    background-image: url(image/Hero\ Image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: -60px;
+    background-position-x: 390px;
+    height: 800px;
+    padding-left: 0;
+}
+
+.half-width1 {
+    width: 30%;
+    padding-left: 7%;
+    padding-top: 10%;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image:linear-gradient(orange, tomato);
+    border-radius: 30px;
+    color:wheat;
+}
+.half-width2 img{
+    width: 700px;
+    margin: 0;
+    padding-left: 0;
+}
+.first p{
+    font-size: 17px;
+}
+.second{
+    display: flex;
+    background-image: url(image/second.png);
+    background-repeat: no-repeat;
+    height: 660px;
+    padding-bottom: -20%;
+
+}
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    padding-left: 30%;
+    padding-top: 13%;
+    width: 60%;
+    height: 80%;
+}
+
+.half-width3{
+    padding-top: 15%;
+    width: 50%;
+    padding-right: 15%;
+    padding-left:5%;
+}
+
+.single{
+    padding-top: 0%;
+    margin: 0%;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.food{
+    display: flex;
+}
+
+.food1{
+    margin-top: 2%;
+    width: 40%;
+    margin-left: 4%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    border-radius: 50px;
+    box-shadow: -5px -5px 70px gray;
+}
+.food2{
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 4%;
+    width: 40%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    border-radius: 50px;
+    box-shadow: -10px -10px 70px gray;
+
+}
+.food1 img{
+    width: 100%;
+}
+
+.food2 img{
+    width: 100%;
+}
+
+.third{
+    display: flex;
+    width: 80%;
+    height: 150px;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 20px;
+    box-shadow: -10px -10px 70px gray;
+}
+
+.one, .two, .three{
+    width: 33%;
+    text-align: center;
+}
+
+.last{
+    margin-top: 10%;
+    padding-top: 10px;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    color: aliceblue;
+    background-color: black;
+}
+.last1{
+    color: rgb(167, 74, 40);
+}
+.last2{
+    color: rgb(120, 115, 115);
+}
